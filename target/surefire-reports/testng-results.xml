@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="141" started-at="2020-07-24T16:53:22 IST" finished-at="2020-07-24T16:53:23 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="141" started-at="2020-07-24T16:53:22 IST" finished-at="2020-07-24T16:53:23 IST">
+      <class name="healthcare.mavenprojects.RESTApiTest">
+        <test-method status="PASS" signature="Postjira()[pri:0, instance:healthcare.mavenprojects.RESTApiTest@1c3a4799]" name="Postjira" duration-ms="0" started-at="2020-07-24T16:53:23 IST" finished-at="2020-07-24T16:53:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postjira -->
+        <test-method status="PASS" signature="deletetwiter()[pri:0, instance:healthcare.mavenprojects.RESTApiTest@1c3a4799]" name="deletetwiter" duration-ms="1" started-at="2020-07-24T16:53:23 IST" finished-at="2020-07-24T16:53:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletetwiter -->
+      </class> <!-- healthcare.mavenprojects.RESTApiTest -->
+      <class name="healthcare.mavenprojects.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:healthcare.mavenprojects.SeleniumTest@1f554b06]" name="BrowserAutomation" duration-ms="9" started-at="2020-07-24T16:53:22 IST" finished-at="2020-07-24T16:53:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:healthcare.mavenprojects.SeleniumTest@1f554b06]" name="ElementsUI" duration-ms="1" started-at="2020-07-24T16:53:22 IST" finished-at="2020-07-24T16:53:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- healthcare.mavenprojects.SeleniumTest -->
+      <class name="healthcare.mavenprojects.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:healthcare.mavenprojects.AppiumTest@694e1548]" name="IOSApps" duration-ms="18" started-at="2020-07-24T16:53:22 IST" finished-at="2020-07-24T16:53:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAPAndroid()[pri:0, instance:healthcare.mavenprojects.AppiumTest@694e1548]" name="NativeAPAndroid" duration-ms="1" started-at="2020-07-24T16:53:23 IST" finished-at="2020-07-24T16:53:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPAndroid -->
+      </class> <!-- healthcare.mavenprojects.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
